@@ -19,39 +19,33 @@
 
 ---
 
-## `> WHO_AM_I`
+## `> ABOUT`
 
-```yaml
-name:      Le Hoang Long
-role:      Software Engineering Student
-location:  Vietnam [UTC+7]
-focus:     Backend Systems + Full-stack Products
-core:      [Clean Code, RESTful APIs, Data Modeling, System Design]
-offline:   [Rhythm Games, VTuber Streams, Exploring New Tech]
-```
+Xin chào, mình là **Long**, sinh viên ngành **Software Engineering** tại Việt Nam.
 
-> **MISSION LOG:** Biến những yêu cầu còn mơ hồ thành hệ thống rõ ràng, đáng tin cậy và có thể phát triển lâu dài.
+Mình đang xây dựng nền tảng về **Backend Development** và từng bước mở rộng sang Full-stack thông qua các dự án cá nhân. Thay vì chạy theo thật nhiều công nghệ, mình muốn hiểu chắc cách dữ liệu di chuyển, API được thiết kế và code được tổ chức để dễ đọc, dễ bảo trì.
 
-<div align="center">
-  <code>DESIGN THE FLOW</code>&nbsp;&nbsp;◆&nbsp;&nbsp;<code>BUILD THE CORE</code>&nbsp;&nbsp;◆&nbsp;&nbsp;<code>SHIP THE EXPERIENCE</code>
-</div>
+- 🎯 **Tập trung hiện tại:** C#, .NET, RESTful APIs và SQL
+- 🧩 **Đang thực hành thêm:** Java, Spring Boot, React và TypeScript
+- 🎧 **Ngoài lập trình:** Rhythm game, VTuber stream và khám phá công nghệ mới
 
-## `> TECH_LOADOUT`
+## `> TOOLKIT`
 
 <div align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,react,tailwind,html,css,postgres,mysql,git,github,visualstudio,vscode,idea&perline=9&theme=dark" alt="Long's technology stack" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,react,tailwind,postgres,mysql,git&perline=10&theme=dark" alt="Technologies Long is currently working with" />
   </a>
 </div>
 
 <br />
 
-| CHANNEL | ACTIVE MODULES |
+| MỨC ĐỘ | CÔNG NGHỆ |
 | :--- | :--- |
-| `CORE_SYSTEMS` | C# · .NET · Java · Spring Boot |
-| `INTERFACE` | TypeScript · JavaScript · React · Tailwind CSS |
-| `DATA_LAYER` | SQL Server · PostgreSQL · MySQL |
-| `WORKBENCH` | Git · GitHub · Visual Studio · VS Code · IntelliJ IDEA |
+| **Current focus** | C# · .NET · RESTful APIs · SQL |
+| **Working knowledge** | Java · Spring Boot · React · TypeScript |
+| **Supporting tools** | PostgreSQL · MySQL · Tailwind CSS · Git |
+
+<sub>Danh sách này thể hiện những công nghệ mình đang sử dụng hoặc học qua dự án, không phải tuyên bố rằng mình đã thành thạo tất cả.</sub>
 
 ## `> LIVE_TELEMETRY`
 

@@ -12,7 +12,7 @@
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=LeHoangLong72&label=PROFILE%20SCANS&color=ff00c8&style=for-the-badge&abbreviated=true" alt="Profile views" />
+  <img src="https://hits.sh/github.com/LeHoangLong72.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=ff00c8&labelColor=08000f&logo=github" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/LeHoangLong72?style=for-the-badge&logo=github&label=NETWORK&labelColor=08000f&color=00d9ff" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/LeHoangLong72?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&labelColor=08000f&color=8a2be2" alt="GitHub stars" />
 </div>
